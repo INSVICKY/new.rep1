@@ -1,0 +1,7 @@
+
+def vivek(surname = "rana"):
+  print(surname + " handsome")
+  
+vivek("singh")
+vivek()
+
